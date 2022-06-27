@@ -1,4 +1,4 @@
-# EdgeNet code structure
+# EdgeNet code structure (out of date)
 
 EdgeNet extends Kubernetes in a few areas that are described here. This document points to the code that enables each of the extensions.
 
