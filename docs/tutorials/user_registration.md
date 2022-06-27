@@ -1,4 +1,4 @@
-# Registering a user in a tenant
+# Registering a user in a tenant (out of date)
 
 This support page describes whether and how you can register a *user* in a tenant with EdgeNet.
 Your registration in a tenant is subject to the approval of that tenant's administrator. However, anyone
